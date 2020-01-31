@@ -2,3 +2,4 @@ left
 right
 turn
 back
+andddd jumpppp
